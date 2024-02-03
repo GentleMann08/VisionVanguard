@@ -10,7 +10,7 @@ from PIL import Image
 from aiogram.types import FSInputFile, InlineKeyboardButton, InlineKeyboardMarkup
 import cv2
 
-TOKEN = '6712586962:AAFDTg8gwBm7JIO_Tn8Ss1U8v2hDgAwqQE8'
+TOKEN = # Ваш токен
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
